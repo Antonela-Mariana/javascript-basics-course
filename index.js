@@ -1,11 +1,13 @@
 // Import stylesheets
-//import './style.css';
+import './style.css';
 
 import './operators.js';
 import './date.js';
 import './arrays.js';
 import './objects.js';
 import './functions.js';
+import './webStorage.js';
+import './dom-events.js';
 
 // Write Javascript code!
 //const appDiv = document.getElementById('app');
