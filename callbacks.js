@@ -1,3 +1,7 @@
+setTimeout(() => console.log('i: ', i), 0);
+let i = 0;
+i = i + 1;
+
 function calculate(param1, param2, myCallback) {
   let sum = param1 + param2;
   //console.log('sum: ', sum)

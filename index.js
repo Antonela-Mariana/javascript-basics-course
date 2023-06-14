@@ -11,7 +11,8 @@ import './style.css';
 //import './asyncron.js';
 //import './callbacks.js';
 //import './promises.js';
-import './httprequest.js';
+//import './httprequest.js';
+import './await-async';
 
 // Write Javascript code!
 //const appDiv = document.getElementById('app');
