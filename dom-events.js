@@ -23,6 +23,6 @@ document
   .getElementsByClassName('divStyle')[0]
   .addEventListener('mouseout', mouseOut);
 
-document
-  .getElementsByClassName('divStyle')[0]
-  .removeEventListener('mouseout', mouseOut); //maybe after callbacks
+// document
+//   .getElementsByClassName('divStyle')[0]
+//   .removeEventListener('mouseout', mouseOut); //maybe after callbacks

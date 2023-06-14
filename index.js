@@ -8,9 +8,10 @@ import './style.css';
 // import './functions.js';
 // import './webStorage.js';
 //import './dom-events.js';
-import './asyncron.js';
-import './callbacks.js';
-import './promises.js';
+//import './asyncron.js';
+//import './callbacks.js';
+//import './promises.js';
+import './httprequest.js';
 
 // Write Javascript code!
 //const appDiv = document.getElementById('app');
