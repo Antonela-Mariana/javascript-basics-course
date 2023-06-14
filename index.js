@@ -1,13 +1,16 @@
 // Import stylesheets
 import './style.css';
 
-import './operators.js';
-import './date.js';
-import './arrays.js';
-import './objects.js';
-import './functions.js';
-import './webStorage.js';
-import './dom-events.js';
+//import './operators.js';
+// import './date.js';
+// import './arrays.js';
+// import './objects.js';
+// import './functions.js';
+// import './webStorage.js';
+//import './dom-events.js';
+import './asyncron.js';
+import './callbacks.js';
+import './promises.js';
 
 // Write Javascript code!
 //const appDiv = document.getElementById('app');

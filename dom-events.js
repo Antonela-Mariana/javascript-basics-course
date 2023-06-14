@@ -1,7 +1,6 @@
 function showMessage() {
   document.getElementsByTagName('p')[0].innerHTML = 'Button pressed';
 }
-
 function mouseOut() {
   document.getElementsByClassName('divStyle')[0].innerHTML = 'Mouse out';
   document.getElementsByClassName('divStyle')[0].style.backgroundColor = 'blue';
