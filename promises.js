@@ -16,14 +16,14 @@ function handleError(error) {
   console.error(error);
   return error;
 }
-// myPromise.then(
-//   (value) => display(value),
-//   (error) => console.error(error)
-// );
+myPromise.then(
+  (value) => display(value),
+  (error) => console.error(error)
+);
 
-myPromise
-  .then(
-    (value) => display(value),
-    (error) => handleError(error)
-  )
-  .then((value) => console.log('value: ' + value));
+// myPromise
+//   .then(
+//     (value) => display(value),
+//     (error) => handleError(error)
+//   )
+//   .then((value) => console.log('value: ' + value));
